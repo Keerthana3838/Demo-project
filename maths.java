@@ -1,6 +1,4 @@
 public interface maths {
-    void add();
-    void subtract();
-        
-
+    void add(int a, int b);
+    void subtract(int a, int b);
 }
